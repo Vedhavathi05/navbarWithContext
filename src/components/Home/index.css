@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.about-dark-theme {
+  background-color: #000000;
+  color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 80vh;
+}
+.page-alignment {
+  width: 100%;
+  height: 90%;
+}
+
+.about-light-theme {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.home-image-styling {
+  width: 100px;
+  height: 100px;
+}

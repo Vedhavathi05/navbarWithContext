@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.about-dark-theme {
+  background-color: #000000;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.page-alignment {
+  width: 100%;
+  height: 90vh;
+}
+
+.about-light-theme {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-image-styling {
+  width: 100px;
+  height: 100px;
+}
